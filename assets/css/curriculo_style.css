@@ -1,0 +1,28 @@
+@import url('reset.css');
+
+main{
+  color: white;
+}
+.bg-section{
+  background-color: #2D2D4E;
+}
+
+div .image img{
+  width: 15rem;
+}
+
+.text{
+  color: #2D2D4E;
+}
+
+.experiencia{
+  border-left: 2px solid #2D2D4E;
+}
+
+.card{
+  cursor: pointer;
+}
+
+.bg-entrar{
+  color: #2D2D4E;
+}

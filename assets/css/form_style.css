@@ -1,0 +1,37 @@
+@import url('reset.css');
+
+section{
+  border-radius: 20px;
+  background-color: #ffff;
+}
+
+div .img{
+  background-color: #b4b4b2;
+}
+
+.title{
+  color: #2D2D4E;
+}
+
+label{
+  color: black;
+  font-size: 18px;
+  font-weight:500;
+}
+
+span{
+color: #FF6600;
+}
+
+.button button{
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: #2D2D4E;
+  padding: 5px 60px;
+}
+
+.button button:hover{
+  background-color: #3C3D37 ;
+  color: white;
+}
