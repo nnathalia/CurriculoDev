@@ -34,10 +34,8 @@ Esta atividade consiste na criação de um currículo web utilizando HTML, CSS e
 - JavaScript
 - Bootstrap
 
-### Como Executar
-1. Baixe ou clone este repositório.
-2. Abra o arquivo `index.html` no seu navegador para visualizar a página do currículo.
-3. Acesse o arquivo `contato.html` para preencher o formulário de contato.
+### Link do Projeto
+[Acesse o site aqui!](https://nnathalia.github.io/CurriculoDev/)
 
 ### Imagens do Projeto
 
