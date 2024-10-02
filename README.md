@@ -44,10 +44,10 @@ Esta atividade consiste na criação de um currículo web utilizando HTML, CSS e
 Abaixo estão algumas capturas de tela do projeto:
 
 ![Currículo Web](/assets/img/site/Curriculo.png)
-*Exemplo da página de Currículo.*
+*Página de Currículo.*
 
 ![Formulário de Contato](/assets/img/site/Formulario.png)
-*Exemplo da página de Formulário de Contato.*
+*Página de Formulário de Contato.*
 
 ### Autor
 Desenvolvido po Nathalia Mariano como atividade prática da disciplina de Programação Web II no curso de Análise e Desenvolvimento de Sistemas.
