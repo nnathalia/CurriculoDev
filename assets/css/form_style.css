@@ -5,6 +5,11 @@ section{
   background-color: #ffff;
 }
 
+.form-container{
+  margin-top: 5rem;
+
+}
+
 div .img{
   background-color: #b4b4b2;
 }
